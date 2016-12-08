@@ -1,0 +1,25 @@
+0) sort po roig title
+1) wywalamy blok sponsorski
+2) sort po czasie
+3) wycinamy - prime time (pt) - czyli wszystkie wiersze od 18-22:59  (fajnie jakby to by³o zmienn¹) - do osobnej zak³adki (pt)
+4) przenoszê nag³ówki
+
+
+Dzia³amy na zak³atce pt
+1) sort na cpp (cost per point)  (ca³a tv siê rozlicza po GRP gross rating point - tutaj TRP target reating point) -- gdzie GRP najtaniej mogê kupiæ
+2) obliczam sumê TRP = 1145
+3) 1145 * 25% = 286.25
+4) zaznaczam na kolumnie TRP wiersze a¿ suma TRP osi¹gnie 286.25 - nie wa¿ne w któr¹ stronê zaokr¹glenie byle jak najbli¿ej
+5) 1145 * 50% = 572.5
+6) odcinam 570 od do³u (suma TRP)
+7) z æwiartki która mi zosta³a - liczê sumê po kolumnie cost.  = 4 712 100
+8) sumê po kolumnie TRP = 287.3
+9) liczê 4 712 100/ 287.3 = 16 401 = CPP z drugiej æwiartki
+
+10) robiê od 7 do 9 tylko na ca³ym zakresie danych = 21 000 000,   1144 TRP,  CPP = 18357
+11) liczê ró¿nicê CPP = 1956
+12) 1956/18357 = 10.7%    czyli, jestem w stanie kupiæ o 10% lepiej ni¿ œrednia
+
+
+Robiê to na ka¿dej stacji w ka¿dym miesi¹cu 2x - pt i not pt.
+I mamy 4 stacje.
